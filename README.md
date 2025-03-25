@@ -16,4 +16,4 @@ https://www.bilibili.com/video/BV1gG9HYXEwM/?vd_source=a6d93df8d5902405fa106888b
 
 ## 游戏下载链接
 链接: https://pan.baidu.com/s/1ZUIvPNsY9Q7pyp37Xep76g?pwd=z2bx 提取码: z2bx  
-![image](https://github.com/marcuswustarman/UE5-MineTheMine/blob/main/gameimage.png)  
+![image](https://github.com/user-attachments/assets/1619fd02-f699-4141-bcd4-660b20d398f1)
